@@ -43,7 +43,7 @@
 13. eb init (creates app)
 => bunch of options (went with default with exception of suggestion go with non-default 'no' for Code Commit/SSH questions
 14. eb create (creates environment)
-==> bunch of questions -- went with default, exc. SpotFleet (went with NO)
+==> a lot of question prompts -- went with default, exc. SpotFleet (went with NO)
 ==> takes awhile
 15. eb deploy (deploys to cloud)
 16. eb open (should automatically open in default browser)
