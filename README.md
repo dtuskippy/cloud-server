@@ -25,6 +25,7 @@
 ====> if successful, can see 'listening on 8080'
 11. Can go back to environment with happy green check, click on it, and see the url...hopefully will get 'happy path' message
 
+
 ### CLI AWS-EB Set-up Process
 
 1. Go to IAM, click on your users (shown as a large integer)
